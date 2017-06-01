@@ -11,9 +11,7 @@
 |Ability to extract linear combinations of features| v |
 |Interpretability | v |
 |Predictive power| v |
-<html>
-<center>123</center>
-</html>
+
 
 
 

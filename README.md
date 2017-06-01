@@ -4,6 +4,8 @@
 
  https://www.kaggle.com/c/bosch-production-line-performance 
  
+ 以下是測試結果
+ 
 |Characteristic|xgbooat|
 |--------------|-------|
 |Natural handling of data of “mixed” type| X |

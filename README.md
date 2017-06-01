@@ -1,5 +1,5 @@
 # Some_characteristics_of_xgboost
-<center>
+
 |Characteristic|xgbooat|
 |--------------|-------|
 |Natural handling of data of “mixed” type| v |
@@ -11,8 +11,9 @@
 |Ability to extract linear combinations of features| v |
 |Interpretability | v |
 |Predictive power| v |
-</center>
-
+<html>
+<center>123</center>
+</html>
 
 
 

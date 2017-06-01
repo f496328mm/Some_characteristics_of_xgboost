@@ -6,15 +6,15 @@
  
 |Characteristic|xgbooat|
 |--------------|-------|
-|Natural handling of data of “mixed” type| x |
-|Handling of missing values| v |
+|Natural handling of data of “mixed” type| X |
+|Handling of missing values| V |
 |Robustness to outliers in input space| - |
-|Insensitive to monotone transformations of inputs| v |
-|Computational scalability| v |
-|Ability to deal with irrelevant inputs| v |
-|Ability to extract linear combinations of features| v |
-|Interpretability | v |
-|Predictive power| v |
+|Insensitive to monotone transformations of inputs| V |
+|Computational scalability| V |
+|Ability to deal with irrelevant inputs| V |
+|Ability to extract linear combinations of features| X |
+|Interpretability | - |
+|Predictive power| VVV |
 
 R MARKDOWN
 http://linsam499190477.droppages.com/

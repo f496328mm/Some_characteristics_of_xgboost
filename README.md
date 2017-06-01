@@ -13,7 +13,7 @@
 |Predictive power| v |
 
 
-https://drive.google.com/file/d/0B4VP7a8ewj_2NnRsLVVZcDN1LUU/view?usp=sharing
+http://linsam499190477.droppages.com/
 
 
 

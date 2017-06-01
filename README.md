@@ -1,22 +1,18 @@
 # Some_characteristics_of_xgboost
+<center>
+|Characteristic|xgbooat|
+|--------------|-------|
+|Natural handling of data of “mixed” type| v |
+|Handling of missing values| v |
+|Robustness to outliers in input space| v |
+|Insensitive to monotone transformations of inputs| v |
+|Computational scalability| v |
+|Ability to deal with irrelevant inputs| v |
+|Ability to extract linear combinations of features| v |
+|Interpretability | v |
+|Predictive power| v |
+</center>
 
-|Natural handling of data of “mixed” type||
-
-|Handling of missing values|
-
-|Robustness to outliers in input space|
-
-|Insensitive to monotone transformations of inputs|
-
-|Computational scalability|
-
-|Ability to deal with irrelevant inputs|
-
-|Ability to extract linear combinations of features|
-
-|Interpretability |
-
-|Predictive power|
 
 
 
